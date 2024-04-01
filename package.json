@@ -1,0 +1,22 @@
+{
+  "name": "swiftcash00-atm-application",
+  "version": "2.0.1",
+  "description": "In this app we are using the functionality of atm.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafiz Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17",
+    "swiftcash00-atm-application": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
